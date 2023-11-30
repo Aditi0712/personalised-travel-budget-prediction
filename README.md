@@ -1,2 +1,2 @@
-# personalised-travel-budget-prediction
-ML project to predict the budget to travel to various destinations. 
+# Travel-budget-prediction
+This is  my project in whch i have a deployed model of machine learning which predicts the budget for each person
